@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Welcome to du-ck's profile ! 👋  
-<br/><br/><br/>
+<br/><br/>
 
 
 ✏ Stack
-<br/><br/>
+
 <!-- back end -->
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 <!-- front end -->
