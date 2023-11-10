@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Welcome to du-ck's profile ! 👋  
+### Welcome to du-ck's profile ! 🐣🦆 
 <br/><br/>
 
 
